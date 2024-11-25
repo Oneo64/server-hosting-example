@@ -1,4 +1,6 @@
 """
+This program hosts a web server locally, using a root path for the server to run in.
+
 - Whitelisting and blacklisting, with manual whitelist toggle
 - Malicious IP detection
 - Basic anti-injection/exploit
